@@ -1,0 +1,2 @@
+# jetbrainAcademyProjects
+projects of jetBrainAcademy
